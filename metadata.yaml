@@ -1,5 +1,8 @@
 _repo: Greifenstein_6446
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Crawford, F. Marion (Francis Marion)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1316
     wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6446#Greifenstein
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
